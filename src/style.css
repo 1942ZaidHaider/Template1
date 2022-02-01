@@ -1,0 +1,15 @@
+p{
+    padding-left: 20px;
+}
+div {
+    text-align: justify;
+}
+#left {
+    padding-left: 30px;
+    width: 48%;
+    float: left;
+}
+#right {
+    float:right;
+    width:48%;
+}
